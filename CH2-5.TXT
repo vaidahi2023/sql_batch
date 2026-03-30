@@ -238,3 +238,4 @@ SELECT first_name, salary, manager_id
 FROM employees
 WHERE salary > 7000
 AND manager_id IN (124, 149);
+
